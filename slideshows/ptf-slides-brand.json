@@ -1,0 +1,103 @@
+{
+  "_meta": {
+    "name": "Skillcrush by PTF — Slides Brand Tokens",
+    "version": "1.0.0",
+    "rules_companion": "ptf-slides-brand-rules.md",
+    "last_updated": "2026-06-11"
+  },
+
+  "logo": {
+    "url": "https://raw.githubusercontent.com/skillcrush-curriculum/skillcrush-by-ptf-logo/main/skillcrush-by-ptf-2x.png",
+    "placement": "top-right",
+    "aspect_ratio": "8:3",
+    "apply_to": "every slide"
+  },
+
+  "fonts": {
+    "display": "Arimo",
+    "body": "Arimo",
+    "source": "Google Fonts",
+    "weights": {
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700,
+      "extrabold": 800
+    },
+    "note": "Font name must be written exactly as 'Arimo' in all PPTX generation to ensure Google Slides match"
+  },
+
+  "colors": {
+    "ink": {
+      "primary": "#0A0A0A",
+      "secondary": "#2A2A2A",
+      "tertiary": "#5C6F69"
+    },
+    "backgrounds": {
+      "white": "#FFFFFF",
+      "off_white": "#FAFAF6",
+      "black": "#0A0A0A"
+    },
+    "brand_green": {
+      "dark": "#0A8C66",
+      "mid": "#4FE8A9"
+    },
+    "brand_purple": {
+      "default": "#5B4FCF",
+      "light": "#EEEBFF"
+    },
+    "iridescent": {
+      "cyan": "#5BCFFF",
+      "green": "#4FE8A9",
+      "lime": "#D5FF66"
+    },
+    "border": "rgba(10, 10, 10, 0.08)"
+  },
+
+  "shadows": {
+    "card": "0 1px 2px rgba(15,30,26,0.04), 0 8px 28px rgba(15,30,26,0.08)"
+  },
+
+  "border_radius": {
+    "sm": "8px",
+    "md": "12px",
+    "lg": "16px",
+    "xl": "20px",
+    "2xl": "28px",
+    "pill": "999px"
+  },
+
+  "buttons": {
+    "on_light": {
+      "backgrounds": ["#5B4FCF", "#0A8C66"],
+      "text_color": "#FFFFFF",
+      "shape": "pill",
+      "border_radius": "999px",
+      "border": "1.5px solid #0A0A0A",
+      "font_family": "Arimo",
+      "font_weight": 600,
+      "font_size_px": 15
+    },
+    "on_dark": {
+      "background": "#FFFFFF",
+      "text_color": "#0A0A0A",
+      "shape": "pill",
+      "border_radius": "999px",
+      "border": "1.5px solid #0A0A0A",
+      "font_family": "Arimo",
+      "font_weight": 600,
+      "font_size_px": 15
+    },
+    "sizes": {
+      "regular": {
+        "padding_vertical_px": 14,
+        "padding_horizontal_px": 26
+      },
+      "small": {
+        "padding_vertical_px": 10,
+        "padding_horizontal_px": 18,
+        "font_size_px": 14
+      }
+    }
+  }
+}
