@@ -64,6 +64,10 @@ No text on a content slide should ever fall below 13pt.
 - Maintain the **8:3 aspect ratio** at all times. Never stretch or crop.
 g
 
+| Logo URL |
+|-----------|-------------|
+| `https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/6354141f2defe37dc4a3c4e388f46c0a3224e5e2/logo/skillcrush-by-ptf-2x.png` |
+
 ---
 
 ## Presenter Introduction Slides
