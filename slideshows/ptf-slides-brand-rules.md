@@ -31,16 +31,41 @@ _Companion to `ptf-slides-brand.json`. Read both files before building any deck.
 
 ---
 
+> **Font installation required:** Arimo is a Google Font and must be installed
+> locally for it to render in PowerPoint. Download all weights from
+> https://fonts.google.com/specimen/Arimo and install before opening any deck.
+> The font name must be written exactly as `"Arimo"` in pptxgenjs code.
+> If Arimo is not installed, PowerPoint will silently substitute a fallback.
+
+---
+
+## Text Size Rules
+
+These minimums apply to all slides built with LAYOUT_WIDE (13.33" × 7.5").
+No text on a content slide should ever fall below 13pt.
+
+| Role | Size | Notes |
+|------|------|-------|
+| Slide title (H1) | 36–40pt | Bold, FONT_H |
+| Card title / H2 | 18–20pt | Bold, FONT_H |
+| Body / bullet text | 14–15pt | Regular, FONT_B |
+| Quote / sample text | 13–14pt | Italic, FONT_B |
+| Sub-label / caption | 13pt minimum | Italic or regular, FONT_B |
+| ALL CAPS section label | 11pt | Bold, FONT_H, charSpacing 1.5pt — reads larger than point size due to spacing |
+| Slide counter (if used) | 11–12pt | FONT_B, muted color |
+
+**Hard rule: 13pt is the floor. Nothing goes below it except slide counters.**
+
 ## Logo
 
 - The Skillcrush by PTF logo appears in the **top-right corner of every slide** without exception, including title slides, divider slides, and black-background slides.
 - Maintain the **8:3 aspect ratio** at all times. Never stretch or crop.
-
+g
 ---
 
 ## Slide Structure Norms
 
-- **Title slide**: Usually white or off-white background, large display headline, logo top-right, optional iridescent accent shape.
+- **Title slide**: Usually white or off-white background, large display g, logo top-right, optional iridescent accent shape.
 - **Section dividers**: Can use black background for emphasis. One per major section.
 - **Content slides**: White background, green accents, consistent logo placement.
 - **Closing slide**: Often black background or a bold green treatment with a CTA button.
