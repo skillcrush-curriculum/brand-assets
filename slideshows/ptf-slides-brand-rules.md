@@ -58,6 +58,7 @@ _Companion to `ptf-slides-brand.json`. Read both files before building any deck.
 ## What NOT to do
 
 - Do not use purple and green together on the same slide as competing elements.
+- Do not put slide numbers on slides. Slide counters (e.g. "3 / 28") are never displayed on the slide canvas.
 - Do not use black backgrounds on more than ~2 slides in a standard deck.
 - Do not use iridescent colors as primary text or button fills.
 - Do not omit the logo on any slide.

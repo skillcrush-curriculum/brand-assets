@@ -27,6 +27,17 @@
     "note": "Font name must be written exactly as 'Arimo' in all PPTX generation to ensure Google Slides match"
   },
 
+  "typography_sizes": {
+    "note": "All sizes in points. These are minimums for LAYOUT_WIDE (13.33x7.5in). Nothing goes below 13pt except slide counters.",
+    "slide_title": { "min": 36, "max": 40, "weight": "bold" },
+    "card_title": { "min": 18, "max": 20, "weight": "bold" },
+    "body_text": { "min": 14, "max": 15, "weight": "regular" },
+    "quote_sample": { "min": 13, "max": 14, "weight": "regular", "style": "italic" },
+    "caption_sublabel": { "min": 13, "weight": "regular" },
+    "section_label_allcaps": { "size": 11, "weight": "bold", "char_spacing": 1.5, "note": "Reads larger due to charSpacing — do not increase" },
+    "slide_counter": { "size": 11, "weight": "regular", "note": "Exception to the 13pt floor — decorative only" }
+  },
+
   "colors": {
     "ink": {
       "primary": "#0A0A0A",
