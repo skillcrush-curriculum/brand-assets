@@ -110,5 +110,16 @@
         "font_size_px": 14
       }
     }
-  }
+  },
+
+  "presenters": [
+    {
+      "name": "Tauri",
+      "headshot": "https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/6354141f2defe37dc4a3c4e388f46c0a3224e5e2/slideshows/headshots/TauriHS_Jan2022-rectangle.jpg"
+    },
+    {
+      "name": "Emily",
+      "headshot": "https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/6354141f2defe37dc4a3c4e388f46c0a3224e5e2/slideshows/headshots/emily-speaker-picture.png"
+    }
+  ]
 }

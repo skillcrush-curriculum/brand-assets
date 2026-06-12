@@ -56,11 +56,32 @@ No text on a content slide should ever fall below 13pt.
 
 **Hard rule: 13pt is the floor. Nothing goes below it except slide counters.**
 
+---
+
 ## Logo
 
 - The Skillcrush by PTF logo appears in the **top-right corner of every slide** without exception, including title slides, divider slides, and black-background slides.
 - Maintain the **8:3 aspect ratio** at all times. Never stretch or crop.
 g
+
+---
+
+## Presenter Introduction Slides
+
+When a slide introduces a presenter, include their headshot using the assets below.
+Each presenter has their own introduction slide — do not combine both presenters on one slide.
+
+| Presenter | Headshot URL |
+|-----------|-------------|
+| Tauri | `https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/43feecb84206a50804d93af9c05daa5f56095855/slideshows/headshots/TauriHS_Jan2022-rectangle.jpg` |
+| Emily | `https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/6354141f2defe37dc4a3c4e388f46c0a3224e5e2/slideshows/headshots/emily-speaker-picture.png` |
+
+**Layout rules for all presenter introduction slides:**
+- **Headshot:** Left side of the slide body, vertically centered
+- **Text (name, title, bio):** Right side of the slide body
+- **Image size:** Scale to fit comfortably within the left half, maintaining original aspect ratio — do not crop or stretch
+- **Style:** No border radius (sharp corners), no border, no drop shadow
+
 ---
 
 ## Slide Structure Norms
