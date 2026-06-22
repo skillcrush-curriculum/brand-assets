@@ -8,9 +8,9 @@
 
 This document gives your AI collaborator the context needed to contribute accurately and on-brand without re-explanation.
 
-Upload the PDF at the start of any new curriculum session or share the raw URL:
+Upload the MD document at the start of any new curriculum session or share the raw URL: https://github.com/skillcrush-curriculum/brand-assets/blob/348b4947adb08999dc4192f4a7d9020e34f47e16/skillcrush-styles/curriculum-guidelines/ai-revamp/Skillcrush\_Teaching\_Vision\_Reference.md
 
-If you need to make changes do so in the Google Doc version shared in the Drive, then republish the PDF to share. Alternatively, publish it as markdown, push this to GitHub, and share the raw file URL to the markdown file. 
+If you need to make changes do so in the Google Doc version shared in the Drive, then republish the MD to share. Ideally, publish it as markdown, push this to GitHub, and share the raw file URL to the markdown file.
 
 This document gives your AI collaborator the context needed to contribute accurately and on-brand without re-explanation.
 
