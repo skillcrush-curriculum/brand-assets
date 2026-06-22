@@ -151,6 +151,8 @@ Skillcrush’s voice is friendly, empowering, and human. Write like a knowledgea
 
 Structure: (1) What it is and why we are learning it. (2) Why it matters for these students. (3) Step-by-step process or workflow with clear code examples. (4) Images and GIFs that show rather than tell. (5) Recommended Resources (optional, not required reading).
 
+When working with AI to generate a Read Step, share the URL for both the Writing Style and Read Step Guide from KEY REFERENCE DOCUMENTS.
+
 * Written overview with outline of what will be covered within this lesson
 
 * Introduce the topic or concept first (the what and why) before getting into the how.
@@ -166,6 +168,8 @@ Structure: (1) What it is and why we are learning it. (2) Why it matters for the
 * Tone: warm and technically precise. Incremental. Never condescending.
 
 ## **Challenge Step Standards**
+
+When working with AI to generate a Challenge Step, share the URL for both the Writing Style and Challenge Step Guide from KEY REFERENCE DOCUMENTS.
 
 * Framing section at the top: tell students what they will complete by the end.
 
@@ -183,11 +187,15 @@ Structure: (1) What it is and why we are learning it. (2) Why it matters for the
 
 * Questions must be open-book: students can answer them if they paid attention to the Read step.
 
+* Goal is to reinforce learning, not challenge it.
+
 * 5–10 questions per quiz. Each question must have an identified correct answer.
 
 * Definitions in quiz questions must align exactly to how terms were defined in the Read step.
 
 * Multiple-choice options: three or more. No periods at the end of answer options.
+
+* Give 1-2 silly options to multiple choice questions.
 
 * Supported question types: True/False, Multiple Choice, Select All That Apply, Fill in the Blanks, Drag & Drop, Mark the Words.
 
@@ -227,7 +235,7 @@ AI assists as research partner, curriculum co-designer, and developer of interac
 | **Step 2** | **Research:** Ask AI subject matter questions to fill knowledge gaps or explore depth of coverage. |
 | **Step 3** | **Outline:** Generate a lesson outline following the standard structure (Read, Cheatsheet, Challenge x1–2, Quiz), with goals for each step. |
 | **Step 4** | **Draft & Refine:** Write out a draft of each step, then work with AI to refine for clarity, voice, and standards compliance. |
-| **Step 5** | **Interactive Components:** Prototype interactive web components in the learning dashboard style, then iterate on language and examples. |
+| **Step 5** | **Interactive Components:** Prototype interactive web components in the learning dashboard style, then iterate on language and examples. When working with AI to generate a component, use the Style Tile and Rules from KEY REFERENCE DOCUMENTS |
 
 ## **AI Output Quality Checklist**
 
