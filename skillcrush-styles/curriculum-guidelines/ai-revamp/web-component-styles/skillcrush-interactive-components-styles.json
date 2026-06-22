@@ -1,0 +1,186 @@
+{
+  "name": "skillcrush-interactive-components-styles",
+  "version": "1.0.0",
+  "description": "Design tokens for Skillcrush bootcamp interactive lesson components. Components render inside an 800px iFrame in the learning dashboard.",
+
+  "colors": {
+    "backgrounds": {
+      "default": "#ffffff",
+      "hero": "#effafa",
+      "stepActive": "rgb(254, 242, 241)",
+      "tipBox": "rgb(240, 249, 254)"
+    },
+    "interactive": {
+      "buttonPrimary": "rgba(241, 96, 89, 1)",
+      "buttonHover": "rgb(250, 166, 158)",
+      "buttonDisabled": "rgb(250, 166, 158)",
+      "completedIndicator": "rgb(48, 192, 161)"
+    },
+    "text": {
+      "default": "#000000",
+      "link": "rgba(241, 96, 89, 1)",
+      "muted": "#6b7280"
+    },
+    "borders": {
+      "default": "#e5e7eb",
+      "tipBox": "#bde3f7"
+    }
+  },
+
+  "typography": {
+    "fonts": {
+      "heading": "'Montserrat', sans-serif",
+      "body": "'Open Sans', sans-serif"
+    },
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;600&display=swap",
+    "rules": {
+      "buttonsAndFeatureText": "ALL CAPS — text-transform: uppercase",
+      "buttonWeight": "700",
+      "links": "underlined in red — text-decoration: underline; color: rgba(241,96,89,1)"
+    },
+    "scale": {
+      "heroHeadline":   { "font": "Montserrat", "size": "26px", "weight": "700" },
+      "featureLabel":   { "font": "Montserrat", "size": "13px", "weight": "700", "transform": "uppercase" },
+      "buttonLabel":    { "font": "Montserrat", "size": "13px", "weight": "700", "transform": "uppercase" },
+      "tipLabel":       { "font": "Montserrat", "size": "12px", "weight": "700", "transform": "uppercase" },
+      "body":           { "font": "Open Sans",  "size": "15px", "weight": "400" },
+      "bodyLarge":      { "font": "Open Sans",  "size": "16px", "weight": "400" },
+      "tip":            { "font": "Open Sans",  "size": "14px", "weight": "400" },
+      "meta":           { "font": "Open Sans",  "size": "13px", "weight": "400" }
+    }
+  },
+
+  "layout": {
+    "targetWidth": "800px",
+    "containerStyle": "max-width: 800px; margin: 0 auto;",
+    "borderRadius": "0",
+    "spacing": {
+      "cardPadding": "24px",
+      "sectionGap": "32px",
+      "sectionGapLarge": "40px",
+      "navPaddingTop": "24px"
+    },
+    "notes": [
+      "No border-radius anywhere — all corners are sharp",
+      "Generous white space between sections",
+      "No outer component heading — dashboard provides lesson title",
+      "No animations or CSS transitions — all state changes are instant",
+      "No auto-advance — require explicit button click"
+    ]
+  },
+
+  "components": {
+    "heroband": {
+      "background": "#effafa",
+      "width": "100%",
+      "padding": "32px 24px",
+      "font": "Montserrat",
+      "fontSize": "26px",
+      "fontWeight": "700",
+      "color": "#000000"
+    },
+
+    "button": {
+      "primary": {
+        "background": "rgba(241, 96, 89, 1)",
+        "color": "#ffffff",
+        "fontFamily": "'Montserrat', sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13px",
+        "textTransform": "uppercase",
+        "border": "none",
+        "borderRadius": "0",
+        "padding": "12px 24px",
+        "cursor": "pointer"
+      },
+      "hover": {
+        "background": "rgb(250, 166, 158)"
+      },
+      "disabled": {
+        "background": "rgb(250, 166, 158)",
+        "cursor": "default"
+      }
+    },
+
+    "stepIndicator": {
+      "states": {
+        "notStarted": {
+          "description": "Numbered circle, outline or neutral fill"
+        },
+        "active": {
+          "rowBackground": "rgb(254, 242, 241)",
+          "description": "Current step — highlight row/card background"
+        },
+        "completed": {
+          "iconBackground": "rgb(48, 192, 161)",
+          "iconColor": "#ffffff",
+          "iconCharacter": "✓",
+          "iconShape": "circle — border-radius: 50% on indicator only"
+        }
+      }
+    },
+
+    "prevNextNav": {
+      "layout": "flex, space-between",
+      "borderTop": "1px solid #e5e7eb",
+      "marginTop": "32px",
+      "paddingTop": "24px",
+      "prevLabel": "‹ PREV STEP",
+      "nextLabel": "NEXT STEP ›",
+      "font": "'Montserrat', sans-serif",
+      "fontWeight": "700",
+      "fontSize": "13px",
+      "textTransform": "uppercase",
+      "colorActive": "rgba(241, 96, 89, 1)",
+      "colorDisabled": "rgb(250, 166, 158)",
+      "background": "none",
+      "border": "none"
+    },
+
+    "tipBox": {
+      "background": "rgb(240, 249, 254)",
+      "border": "1px solid #bde3f7",
+      "borderRadius": "0",
+      "padding": "16px 20px",
+      "display": "flex",
+      "gap": "14px",
+      "icon": {
+        "character": "i",
+        "background": "rgb(48, 192, 161)",
+        "color": "#ffffff",
+        "shape": "circle — border-radius: 50%",
+        "size": "24px",
+        "font": "'Montserrat', sans-serif",
+        "fontWeight": "700"
+      },
+      "labelFont": "'Montserrat', sans-serif",
+      "labelWeight": "700",
+      "labelTransform": "uppercase",
+      "bodyFont": "'Open Sans', sans-serif",
+      "bodySize": "14px"
+    },
+
+    "link": {
+      "color": "rgba(241, 96, 89, 1)",
+      "textDecoration": "underline"
+    }
+  },
+
+  "iframe": {
+    "targetWidth": 800,
+    "unit": "px",
+    "framework": "none — plain HTML/CSS/JS only",
+    "stateManagement": "plain JS variables + direct DOM manipulation",
+    "storage": "none — state resets per session",
+    "scrollBehavior": "no horizontal scroll at 800px"
+  },
+
+  "doNot": [
+    "Use border-radius on cards or buttons",
+    "Animate step transitions — use instant display toggle",
+    "Add sidebar or inner navigation for use outside of component— dashboard handles all chrome",
+    "Use vh or vw units for core layout",
+    "Auto-advance steps on a timer",
+    "Use localStorage or sessionStorage"
+  ]
+}
