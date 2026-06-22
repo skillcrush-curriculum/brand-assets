@@ -1,6 +1,6 @@
 ---
 name: skillcrush-interactive-components-style-rules
-description: Use this skill whenever building interactive web components for the Skillcrush web development bootcamp. Triggers include: any request for a lesson component, interactive exercise, step-by-step UI, quiz, checklist, or any web component that will be embedded in the learning dashboard iFrame. Provides exact colors, fonts, layout patterns, and component recipes for bootcamp-compliant interactive lessons.
+description: "Use this skill whenever building interactive web components for the Skillcrush web development bootcamp. Triggers include: any request for a lesson component, interactive exercise, step-by-step UI, quiz, checklist, or any web component that will be embedded in the learning dashboard iFrame. Provides exact colors, fonts, layout patterns, and component recipes for bootcamp-compliant interactive lessons."
 ---
 
 # Skillcrush Interactive Web Components — Design System
