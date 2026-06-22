@@ -6,15 +6,9 @@
 
 # **HOW TO USE THIS DOCUMENT**
 
-This document gives your AI collaborator the context needed to contribute accurately and on-brand without re-explanation.
+Upload the MD document at the start of any new curriculum session or share the raw URL. If you need to make changes, do so in the Google Doc version, then republish the MD to GitHub and share the raw file URL.
 
-Upload the MD document at the start of any new curriculum session or share the raw URL: https://github.com/skillcrush-curriculum/brand-assets/blob/348b4947adb08999dc4192f4a7d9020e34f47e16/skillcrush-styles/curriculum-guidelines/ai-revamp/Skillcrush\_Teaching\_Vision\_Reference.md
-
-If you need to make changes do so in the Google Doc version shared in the Drive, then republish the MD to share. Ideally, publish it as markdown, push this to GitHub, and share the raw file URL to the markdown file.
-
-This document gives your AI collaborator the context needed to contribute accurately and on-brand without re-explanation.
-
-| Quick-start prompt: "Here is my Teaching Vision & Collaboration Reference: \[URL or paste\]. I am starting work on \[topic\]. Let’s begin with \[brainstorm / outline / read step draft / challenge draft / interactive component\]." |
+| Quick-start prompt: "Here is my Teaching Vision & Collaboration Reference: \[raw URL\]. I am starting work on \[topic\]. Let’s begin with \[brainstorm / outline / read step draft / challenge draft / interactive component\]." |
 | :---- |
 
 # **1\. ORGANIZATION OVERVIEW**
@@ -138,7 +132,32 @@ The structure below is the default, but it is not rigid. Lessons may adapt based
 | Hands-On Guided Challenge (x1–2) | Practice a specific skill with clear step-by-step directions and visual examples of the end result. Includes framing, What To Do section, and optional encouragement at the end. |
 | Practice Quiz | Open-book questions (5–10) to reinforce learning. Uses H5P: True/False, Multiple Choice, Fill in the Blanks, Drag & Drop, Mark the Words. |
 
-# **6\. WRITING STANDARDS**
+# **6\. LEARNING OUTCOMES, GOALS & OBJECTIVES**
+
+## **Learning Outcomes**
+
+Learning outcomes describe what should happen after a student completes a class. They are very high-level and broad. Using difficult-to-measure verbs like “use,” “able to,” “know,” or “understand” are fine at this stage of planning.
+
+| Examples: *Students will land a job in tech or design.* *Students will use modern JavaScript to build programs.* *Students will be able to design web pages.* |
+| :---- |
+
+## **Learning Goals**
+
+Learning goals are the overarching goals for a specific class. They are somewhat broad and may incorporate topics students will learn in multiple lessons. They are general competencies students will be able to demonstrate that prove the intended learning took place.
+
+Use **measurable verbs** with learning goals to define specific and measurable actions.
+
+| Examples: *Students will build a portfolio of their work.* *Students will develop programs to solve problems using logic and conditions.* *Students will design a simple, one-page website using knowledge of design, color, and typography.* |
+| :---- |
+
+## **Learning Objectives**
+
+Learning objectives are used for planning individual lessons in a class. They should be specific, narrow, and measurable.
+
+| Examples: *Students will construct their education, experience, and skills sections of their portfolio.* *Students will incorporate if/else statements in their code.* *Students will examine fonts and create font pairing.* |
+| :---- |
+
+# **7\. WRITING STANDARDS**
 
 ## **Voice and Tone**
 
@@ -146,6 +165,24 @@ Skillcrush’s voice is friendly, empowering, and human. Write like a knowledgea
 
 | Avoid Tech bro lingo (rockstar, ninja, unicorn) Hustle culture language (work nights & weekends) Gendered language (guys, manpower) Ableist phrases (crazy, blind spot, sanity check) Em dash with spaces ( — ); use colon, semicolon, or en dash instead Vague anchor text (“click here”) Overly aspirational phrasing (“unlock your potential”) | Use “You’ve got this, Skillcrusher\!” “Let’s break it down” / “That’s totally normal” Diverse names in examples (not just Anglo-Saxon) Real-life variable names (credit\_card\_balance, not x) Active voice; short sentences for technical content Oxford comma; AP Stylebook; American English Spell out numbers one through nine; numerals for 10+ |
 | :---- | :---- |
+
+## **Class Description**
+
+The class description is the exciting, simplified version of the Learning Goals. It puts the skills students will learn within the context of their full skill set (e.g., web development). This is displayed on the dashboard where students browse all classes and lessons. Maximum 325 characters.
+
+| Example class description (React): *In this introduction to the JavaScript React library, you’ll take your foundational JavaScript skills to the next level to create elegant, interactive user interfaces. You’ll learn how React uses data to build UIs that work efficiently and solve people’s problems, and how React plays well with HTML, CSS, and other JS code.* |
+| :---- |
+
+The skills learned are also displayed for each class. Example for React:
+
+*Rendering UI From Data, ES6 & JSX, Stateful vs. Functional Components, Component Lifecycle Methods, State Management, Event Handling*
+
+## **Lesson Description**
+
+The lesson description is the exciting, simplified version of the Learning Objectives for a particular lesson, written as students will see it. It helps them contextualize how their skills are building from lesson to lesson. Maximum 225 characters.
+
+| Example lesson description (React: Organize Your React Code): *Beautiful, functioning code has to be well organized to work efficiently. Channel your inner Marie Kondo in this lesson to keep your React code tidy with the JavaScript ES6 standard\!* |
+| :---- |
 
 ## **Read Step Standards**
 
@@ -195,11 +232,11 @@ When working with AI to generate a Challenge Step, share the URL for both the Wr
 
 * Multiple-choice options: three or more. No periods at the end of answer options.
 
-* Give 1-2 silly options to multiple choice questions.
+* Give 1–2 silly options to multiple choice questions.
 
 * Supported question types: True/False, Multiple Choice, Select All That Apply, Fill in the Blanks, Drag & Drop, Mark the Words.
 
-# **7\. DIVERSE REPRESENTATION STANDARDS**
+# **8\. DIVERSE REPRESENTATION STANDARDS**
 
 Skillcrush classes actively celebrate and reflect student diversity in race, ethnicity, gender, age, sexual orientation, and disability. Representation is intentional and counter-stereotypical across all of the following areas:
 
@@ -212,9 +249,9 @@ Skillcrush classes actively celebrate and reflect student diversity in race, eth
 | Language | Use APA bias-free language guidelines. Avoid ableist or exclusionary phrases. Use people-first language when relevant. |
 | Words to avoid | guys, manpower, one man shop, crazy, insane, awesome (overused), blind spot, sanity check, tribe, pow-wow, newbies, computer science (use “tech” or “digital”). |
 
-# **8\. ACCESSIBILITY STANDARDS**
+# **9\. ACCESSIBILITY STANDARDS**
 
-* All images and GIFs must have alt text. Keep it under 125 characters. Do not start with “image of” or “GIF of”. Do not duplicate the caption.
+* All images and GIFs must have alt text. Keep it under 125 characters. Do not start with “image of” or “GIF of.” Do not duplicate the caption.
 
 * Captions should be concise, conversational, and connect the image to the lesson topic. Font size 10 in the source doc.
 
@@ -226,7 +263,7 @@ Skillcrush classes actively celebrate and reflect student diversity in race, eth
 
 * Image and GIF file naming convention: ClassNumber-LessonNumber-StepType-brief-description.png (e.g., 102-L01-READ-camel-case.png).
 
-# **9\. AI COLLABORATION WORKFLOW**
+# **10\. AI COLLABORATION WORKFLOW**
 
 AI assists as research partner, curriculum co-designer, and developer of interactive learning components. The workflow for new curriculum development:
 
@@ -235,7 +272,7 @@ AI assists as research partner, curriculum co-designer, and developer of interac
 | **Step 2** | **Research:** Ask AI subject matter questions to fill knowledge gaps or explore depth of coverage. |
 | **Step 3** | **Outline:** Generate a lesson outline following the standard structure (Read, Cheatsheet, Challenge x1–2, Quiz), with goals for each step. |
 | **Step 4** | **Draft & Refine:** Write out a draft of each step, then work with AI to refine for clarity, voice, and standards compliance. |
-| **Step 5** | **Interactive Components:** Prototype interactive web components in the learning dashboard style, then iterate on language and examples. When working with AI to generate a component, use the Style Tile and Rules from KEY REFERENCE DOCUMENTS |
+| **Step 5** | **Interactive Components:** Prototype interactive web components in the learning dashboard style, then iterate on language and examples. When working with AI to generate a component, use the Style Tile and Rules from KEY REFERENCE DOCUMENTS. |
 
 ## **AI Output Quality Checklist**
 
@@ -259,7 +296,7 @@ Before accepting any AI-generated content, verify:
 
 * For Challenge steps: each What To Do item is one discrete action; solution code provided
 
-# **10\. AI CURRICULUM PLAN**
+# **11\. AI CURRICULUM PLAN**
 
 New AI lessons and projects are woven throughout the existing web development curriculum at strategic points. The goal is to teach prompt writing, AI-assisted project building, debugging, and workflow automation alongside core technical skills, so students graduate with AI literacy embedded in their practice, not bolted on at the end.
 
@@ -300,7 +337,7 @@ New AI lessons and projects are woven throughout the existing web development cu
 | Preparing & Displaying Data with Python | *Existing* |
 | ★ Build a Full-Stack AI Feature: Smart Search with Claude API | New AI Project |
 
-# **11\. KEY REFERENCE DOCUMENTS**
+# **12\. KEY REFERENCE DOCUMENTS**
 
 Share these raw GitHub URLs in future sessions as needed:
 
@@ -308,11 +345,11 @@ Share these raw GitHub URLs in future sessions as needed:
 | :---- | :---- |
 | Diverse Representation Guide | raw.githubusercontent.com/skillcrush-curriculum/brand-assets/.../diverse-representation-guide.pdf |
 | Writing Style Guide | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/26c13576c16b8a13cc9858d25ba5460c4c38e2fa/skillcrush-styles/curriculum-guidelines/writing-style-guide.pdf |
-| Read Step Guide | https://raw.githubuserconent.com/skillcrush-curriculum/brand-assets/26c13576c16b8a13cc9858d25ba5460c4c38e2fa/skillcrush-styles/curriculum-guidelines/read-step-guide.pdf |
+| Read Step Guide | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/26c13576c16b8a13cc9858d25ba5460c4c38e2fa/skillcrush-styles/curriculum-guidelines/read-step-guide.pdf |
 | Challenge Step Guide | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/26c13576c16b8a13cc9858d25ba5460c4c38e2fa/skillcrush-styles/curriculum-guidelines/challenge-step-guide.pdf |
 | Practice Quiz Guide | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/26c13576c16b8a13cc9858d25ba5460c4c38e2fa/skillcrush-styles/curriculum-guidelines/practice-quiz-guide.pdf |
 | Checklist for Writing Steps | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/26c13576c16b8a13cc9858d25ba5460c4c38e2fa/skillcrush-styles/curriculum-guidelines/checklist-for-writing-steps.pdf |
-| Curriculum Accessibility Guide | https://github.com/skillcrush-curriculum/brand-assets/blob/26c13576c16b8a13cc9858d25ba5460c4c38e2fa/skillcrush-styles/curriculum-guidelines/curriculum-accessibility-guide.pdf |
+| Curriculum Accessibility Guide | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/26c13576c16b8a13cc9858d25ba5460c4c38e2fa/skillcrush-styles/curriculum-guidelines/curriculum-accessibility-guide.pdf |
 | AI Curriculum Plan (Excel) | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/1bd964d70897a6c447b23997dbf66cbdbbdb1420/skillcrush-styles/curriculum-guidelines/ai-revamp/AI-augmented-curriculum-overview.xlsx |
 | Interactive Component Style Rules | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/89cdaf2a2bc37e3aad9a395536a38a0fd789de8d/skillcrush-styles/curriculum-guidelines/ai-revamp/web-component-styles/skillcrush-interactive-components-style-rules.md |
 | Interactive Component Style Tile | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/89cdaf2a2bc37e3aad9a395536a38a0fd789de8d/skillcrush-styles/curriculum-guidelines/ai-revamp/web-component-styles/skillcrush-interactive-components-styles.json |
