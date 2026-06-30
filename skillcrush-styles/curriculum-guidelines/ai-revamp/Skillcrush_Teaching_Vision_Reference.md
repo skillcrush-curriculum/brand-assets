@@ -1,31 +1,27 @@
-**Skillcrush**
+# **Skillcrush Teaching Vision & AI Collaboration Reference**
 
-**Teaching Vision & AI Collaboration Reference**
+Paste this document or share its raw URL at the start of any curriculum session to orient your AI collaborator.
 
-*Paste this document or share its raw URL at the start of any curriculum session to orient your AI collaborator.*
-
-# **HOW TO USE THIS DOCUMENT**
+## **HOW TO USE THIS DOCUMENT**
 
 Upload the MD document at the start of any new curriculum session or share the raw URL. If you need to make changes, do so in the Google Doc version, then republish the MD to GitHub and share the raw file URL.
 
-| Quick-start prompt: "Here is my Teaching Vision & Collaboration Reference: \[raw URL\]. I am starting work on \[topic\]. Let’s begin with \[brainstorm / outline / read step draft / challenge draft / interactive component\]." |
+| Quick-start prompt: "Here is my Teaching Vision & Collaboration Reference: https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/... I am starting work on \[topic\]. Let's begin with \[brainstorm / outline / read step draft / challenge draft / interactive component\]." |
 | :---- |
 
-# **1\. ORGANIZATION OVERVIEW**
+## **1\. ORGANIZATION OVERVIEW**
 
-## **Mission**
+### **Mission**
 
 To improve the quality of life of all women, with a particular focus on BIPOC women, femmes, and non-binary individuals, through digital empowerment and skills to build higher-earning and more flexible careers.
 
-## **Vision**
+### **Vision**
 
-* Demystify technology and make it accessible to people without a computer science background, those over 30, and those who have otherwise felt left out of the tech industry.
-
-* Provide enjoyable, manageable digital skill learning programs, community, and instructor support that increase students’ confidence and their ability to use technology to transform their careers and lives.
-
+* Demystify technology and make it accessible to people without a computer science background, those over 30, and those who have otherwise felt left out of the tech industry.  
+* Provide enjoyable, manageable digital skill learning programs, community, and instructor support that increase students’ confidence and their ability to use technology to transform their careers and lives.  
 * Reliably empower graduates to build careers that work for them.
 
-## **Core Values**
+### **Core Values**
 
 * All people deserve fulfilling work that also pays the bills.
 
@@ -35,13 +31,13 @@ To improve the quality of life of all women, with a particular focus on BIPOC wo
 
 * When in doubt, ask a student. Students are the lifeblood of Skillcrush.
 
-# **2\. STUDENT PROFILE**
+## **2\. STUDENT PROFILE**
 
-## **Who Our Students Are**
+### **Who Our Students Are**
 
 Skillcrush focuses on people underrepresented in tech: BIPOC women, femmes, and non-binary individuals; people over 30; LGBTQIA+ community members; career changers; parents and caregivers; and those without college degrees.
 
-## **Unique Challenges They Face**
+### **Unique Challenges They Face**
 
 * Child and dependent care responsibilities
 
@@ -55,7 +51,7 @@ Skillcrush focuses on people underrepresented in tech: BIPOC women, femmes, and 
 
 * No deadlines in a self-paced program, making motivation a real challenge
 
-## **Their Goals**
+### **Their Goals**
 
 * Sustainable income, often with children or other dependents
 
@@ -65,9 +61,9 @@ Skillcrush focuses on people underrepresented in tech: BIPOC women, femmes, and 
 
 * Creative fulfillment
 
-# **3\. TEACHING PHILOSOPHY**
+## **3\. TEACHING PHILOSOPHY**
 
-## **Core Pedagogical Beliefs**
+### **Core Pedagogical Beliefs**
 
 * Everyone can learn technical skills if they have the motivation, live instructors to discuss topics with, and mentorship through the challenges of career change.
 
@@ -79,7 +75,7 @@ Skillcrush focuses on people underrepresented in tech: BIPOC women, femmes, and 
 
 * Remove the training wheels slowly. Provide guided challenges first, then progressively reduce scaffolding.
 
-## **Learning Experience Design**
+### **Learning Experience Design**
 
 * **Diverse representation:** Students should see themselves in every lesson. Names in code examples, personas, recommended resources, and visuals must reflect the community.
 
@@ -91,9 +87,9 @@ Skillcrush focuses on people underrepresented in tech: BIPOC women, femmes, and 
 
 * **Candid about challenges:** Acknowledge learning curves openly. “That’s totally normal” is an acceptable and encouraged framing.
 
-# **4\. CURRICULUM STRUCTURE**
+## **4\. CURRICULUM STRUCTURE**
 
-## **Program Delivery**
+### **Program Delivery**
 
 * Fully self-paced and asynchronous
 
@@ -107,7 +103,7 @@ Skillcrush focuses on people underrepresented in tech: BIPOC women, femmes, and 
 
 * Portfolio workshop at end of curriculum with comprehensive review including QA of all projects
 
-## **Team Constraints**
+### **Team Constraints**
 
 * Fully remote: all correspondence via email, Slack, and Zoom
 
@@ -117,11 +113,11 @@ Skillcrush focuses on people underrepresented in tech: BIPOC women, femmes, and 
 
 * No Watch steps being produced for new curriculum currently due to capacity constraints
 
-## **Course Topics (Web Development)**
+### **Course Topics (Web Development)**
 
 HTML and CSS; Git and GitHub; Coding Responsive Websites; JavaScript Fundamentals; Introduction to JavaScript React; Introduction to React Hooks; Getting Started with Python; Using Python to Build Web Apps; Full Stack Recipe Card App with React and Flask; Preparing and Displaying Data with Python; Introduction to Developing Generative AI Web Apps; Building Complex Generative AI Web Apps with LangChain; Enhancing Generative AI Web Apps with Domain Specific Content.
 
-# **5\. STANDARD LESSON STRUCTURE**
+## **5\. STANDARD LESSON STRUCTURE**
 
 The structure below is the default, but it is not rigid. Lessons may adapt based on topic complexity (e.g., two read steps for broad topics, or alternating Read/Challenge pairs for related topics like Arrays then Loops, followed by a final challenge combining both).
 
@@ -132,111 +128,108 @@ The structure below is the default, but it is not rigid. Lessons may adapt based
 | Hands-On Guided Challenge (x1–2) | Practice a specific skill with clear step-by-step directions and visual examples of the end result. Includes framing, What To Do section, and optional encouragement at the end. |
 | Practice Quiz | Open-book questions (5–10) to reinforce learning. Uses H5P: True/False, Multiple Choice, Fill in the Blanks, Drag & Drop, Mark the Words. |
 
-# **6\. LEARNING OUTCOMES, GOALS & OBJECTIVES**
+## **6\. LEARNING OUTCOMES, GOALS & OBJECTIVES**
 
-## **Learning Outcomes**
+### **Learning Outcomes**
 
 Learning outcomes describe what should happen after a student completes a class. They are very high-level and broad. Using difficult-to-measure verbs like “use,” “able to,” “know,” or “understand” are fine at this stage of planning.
 
-| Examples: *Students will land a job in tech or design.* *Students will use modern JavaScript to build programs.* *Students will be able to design web pages.* |
+| Examples: Students will land a job in tech or design. | Students will use modern JavaScript to build programs. | Students will be able to design web pages. |
 | :---- |
 
-## **Learning Goals**
+### **Learning Goals**
 
-Learning goals are the overarching goals for a specific class. They are somewhat broad and may incorporate topics students will learn in multiple lessons. They are general competencies students will be able to demonstrate that prove the intended learning took place.
+Learning goals are the overarching goals for a specific class. They are somewhat broad and may incorporate topics students will learn in multiple lessons. They are general competencies students will be able to demonstrate that prove the intended learning took place. Use measurable verbs with learning goals to define specific and measurable actions.
 
-Use **measurable verbs** with learning goals to define specific and measurable actions.
-
-| Examples: *Students will build a portfolio of their work.* *Students will develop programs to solve problems using logic and conditions.* *Students will design a simple, one-page website using knowledge of design, color, and typography.* |
+| Examples: Students will build a portfolio of their work. | Students will develop programs to solve problems using logic and conditions. | Students will design a simple, one-page website using knowledge of design, color, and typography. |
 | :---- |
 
-## **Learning Objectives**
+### **Learning Objectives**
 
 Learning objectives are used for planning individual lessons in a class. They should be specific, narrow, and measurable.
 
-| Examples: *Students will construct their education, experience, and skills sections of their portfolio.* *Students will incorporate if/else statements in their code.* *Students will examine fonts and create font pairing.* |
+| Examples: Students will construct their education, experience, and skills sections of their portfolio. | Students will incorporate if/else statements in their code. | Students will examine fonts and create font pairing. |
 | :---- |
 
-# **7\. WRITING STANDARDS**
+## **7\. WRITING STANDARDS**
 
-## **Voice and Tone**
+### **Voice and Tone**
 
 Skillcrush’s voice is friendly, empowering, and human. Write like a knowledgeable friend who genuinely wants the reader to succeed. Not a tech bro. Not a stuffy academic. Not condescending.
 
-| Avoid Tech bro lingo (rockstar, ninja, unicorn) Hustle culture language (work nights & weekends) Gendered language (guys, manpower) Ableist phrases (crazy, blind spot, sanity check) Em dash with spaces ( — ); use colon, semicolon, or en dash instead Vague anchor text (“click here”) Overly aspirational phrasing (“unlock your potential”) | Use “You’ve got this, Skillcrusher\!” “Let’s break it down” / “That’s totally normal” Diverse names in examples (not just Anglo-Saxon) Real-life variable names (credit\_card\_balance, not x) Active voice; short sentences for technical content Oxford comma; AP Stylebook; American English Spell out numbers one through nine; numerals for 10+ |
+| Avoid | Use |
 | :---- | :---- |
+| Tech bro lingo (rockstar, ninja, unicorn) Hustle culture language (work nights & weekends) Gendered language (guys, manpower) Ableist phrases (crazy, blind spot, sanity check) Em dash with spaces ( — ); use colon, semicolon, or en dash Vague anchor text (“click here”) Overly aspirational phrasing (“unlock your potential”) | “You’ve got this, Skillcrusher\!” “Let’s break it down” / “That’s totally normal” Diverse names in examples (not just Anglo-Saxon) Real-life variable names (credit\_card\_balance, not x) Active voice; short sentences for technical content Oxford comma; AP Stylebook; American English Spell out numbers one through nine; numerals for 10+ |
 
-## **Class Description**
+### **Class Description**
 
 The class description is the exciting, simplified version of the Learning Goals. It puts the skills students will learn within the context of their full skill set (e.g., web development). This is displayed on the dashboard where students browse all classes and lessons. Maximum 325 characters.
 
-| Example class description (React): *In this introduction to the JavaScript React library, you’ll take your foundational JavaScript skills to the next level to create elegant, interactive user interfaces. You’ll learn how React uses data to build UIs that work efficiently and solve people’s problems, and how React plays well with HTML, CSS, and other JS code.* |
+| Example (React): In this introduction to the JavaScript React library, you’ll take your foundational JavaScript skills to the next level to create elegant, interactive user interfaces. You’ll learn how React uses data to build UIs that work efficiently and solve people’s problems, and how React plays well with HTML, CSS, and other JS code. |
 | :---- |
 
-The skills learned are also displayed for each class. Example for React:
-
-*Rendering UI From Data, ES6 & JSX, Stateful vs. Functional Components, Component Lifecycle Methods, State Management, Event Handling*
-
-## **Lesson Description**
+### **Lesson Description**
 
 The lesson description is the exciting, simplified version of the Learning Objectives for a particular lesson, written as students will see it. It helps them contextualize how their skills are building from lesson to lesson. Maximum 225 characters.
 
-| Example lesson description (React: Organize Your React Code): *Beautiful, functioning code has to be well organized to work efficiently. Channel your inner Marie Kondo in this lesson to keep your React code tidy with the JavaScript ES6 standard\!* |
+| Example (React: Organize Your React Code): Beautiful, functioning code has to be well organized to work efficiently. Channel your inner Marie Kondo in this lesson to keep your React code tidy with the JavaScript ES6 standard\! |
 | :---- |
 
-## **Read Step Standards**
+### **Read Step Standards**
 
-Structure: (1) What it is and why we are learning it. (2) Why it matters for these students. (3) Step-by-step process or workflow with clear code examples. (4) Images and GIFs that show rather than tell. (5) Recommended Resources (optional, not required reading).
+**Structure:** (1) What it is and why we are learning it. (2) Why it matters for these students. (3) Step-by-step process or workflow with clear code examples. (4) Images and GIFs that show rather than tell. (5) Recommended Resources (optional, not required reading).
 
-When working with AI to generate a Read Step, share the URL for both the Writing Style and Read Step Guide from KEY REFERENCE DOCUMENTS.
+| NOTE: When working with AI to generate a Read Step, share the URL for both the Writing Style and Read Step Guide from KEY REFERENCE DOCUMENTS. |
+| :---- |
 
 * Written overview with outline of what will be covered within this lesson
 
-* Introduce the topic or concept first (the what and why) before getting into the how.
+* Introduce the topic or concept first (the what and why) before getting into the how
 
-* New terms: always define inline with plain-English explanation immediately after introducing them.
+* New terms: always define inline with plain-English explanation immediately after introducing them
 
-* Code examples must use the ir-black theme via the Code Blocks Chrome extension.
+* Code examples must use the ir-black theme via the Code Blocks Chrome extension
 
-* Images and GIFs must have alt text (noted in a comment for the course loader).
+* Images and GIFs must have alt text (noted in a comment for the course loader)
 
-* If any previously introduced content is referenced, add a comment for the course loader to link it.
+* If any previously introduced content is referenced, add a comment for the course loader to link it
 
 * Tone: warm and technically precise. Incremental. Never condescending.
 
-## **Challenge Step Standards**
+### **Challenge Step Standards**
 
-When working with AI to generate a Challenge Step, share the URL for both the Writing Style and Challenge Step Guide from KEY REFERENCE DOCUMENTS.
+| NOTE: When working with AI to generate a Challenge Step, share the URL for both the Writing Style and Challenge Step Guide from KEY REFERENCE DOCUMENTS. |
+| :---- |
 
-* Framing section at the top: tell students what they will complete by the end.
+* Framing section at the top: tell students what they will complete by the end
 
-* Introduce any new information with an example if applicable.
+* Introduce any new information with an example if applicable
 
-* Each What To Do item is one small, discrete action.
+* Each What To Do item is one small, discrete action
 
-* If the challenge is long or complex, break into bold sub-headings (e.g., “Test & Save Your Project”).
+* If the challenge is long or complex, break into bold sub-headings (e.g., “Test & Save Your Project”)
 
 * End by asking the student to submit, upload, or save. Celebrate if the challenge was especially difficult.
 
-* Solution code must be provided for all coding challenges.
+* Solution code must be provided for all coding challenges
 
-## **Practice Quiz Standards**
+### **Practice Quiz Standards**
 
-* Questions must be open-book: students can answer them if they paid attention to the Read step.
+* Questions must be open-book: students can answer them if they paid attention to the Read step
 
-* Goal is to reinforce learning, not challenge it.
+* Goal is to reinforce learning, not challenge it
 
 * 5–10 questions per quiz. Each question must have an identified correct answer.
 
-* Definitions in quiz questions must align exactly to how terms were defined in the Read step.
+* Definitions in quiz questions must align exactly to how terms were defined in the Read step
 
 * Multiple-choice options: three or more. No periods at the end of answer options.
 
-* Give 1–2 silly options to multiple choice questions.
+* Give 1–2 silly options to multiple choice questions
 
-* Supported question types: True/False, Multiple Choice, Select All That Apply, Fill in the Blanks, Drag & Drop, Mark the Words.
+* Supported question types: True/False, Multiple Choice, Select All That Apply, Fill in the Blanks, Drag & Drop, Mark the Words
 
-# **8\. DIVERSE REPRESENTATION STANDARDS**
+## **8\. DIVERSE REPRESENTATION STANDARDS**
 
 Skillcrush classes actively celebrate and reflect student diversity in race, ethnicity, gender, age, sexual orientation, and disability. Representation is intentional and counter-stereotypical across all of the following areas:
 
@@ -249,7 +242,7 @@ Skillcrush classes actively celebrate and reflect student diversity in race, eth
 | Language | Use APA bias-free language guidelines. Avoid ableist or exclusionary phrases. Use people-first language when relevant. |
 | Words to avoid | guys, manpower, one man shop, crazy, insane, awesome (overused), blind spot, sanity check, tribe, pow-wow, newbies, computer science (use “tech” or “digital”). |
 
-# **9\. ACCESSIBILITY STANDARDS**
+## **9\. ACCESSIBILITY STANDARDS**
 
 * All images and GIFs must have alt text. Keep it under 125 characters. Do not start with “image of” or “GIF of.” Do not duplicate the caption.
 
@@ -263,18 +256,29 @@ Skillcrush classes actively celebrate and reflect student diversity in race, eth
 
 * Image and GIF file naming convention: ClassNumber-LessonNumber-StepType-brief-description.png (e.g., 102-L01-READ-camel-case.png).
 
-# **10\. AI COLLABORATION WORKFLOW**
+## **10\. AI COLLABORATION WORKFLOW**
 
-AI assists as research partner, curriculum co-designer, and developer of interactive learning components. The workflow for new curriculum development:
+AI assists as research partner, curriculum co-designer, and developer of interactive learning components.
 
-| Step 1 | Brainstorm: Introduce ideas for the lesson. Ask AI if anything is unclear or if there are suggestions for making the topic clearer. |
-| :---: | :---- |
-| **Step 2** | **Research:** Ask AI subject matter questions to fill knowledge gaps or explore depth of coverage. |
-| **Step 3** | **Outline:** Generate a lesson outline following the standard structure (Read, Cheatsheet, Challenge x1–2, Quiz), with goals for each step. |
-| **Step 4** | **Draft & Refine:** Write out a draft of each step, then work with AI to refine for clarity, voice, and standards compliance. |
-| **Step 5** | **Interactive Components:** Prototype interactive web components in the learning dashboard style, then iterate on language and examples. When working with AI to generate a component, use the Style Tile and Rules from KEY REFERENCE DOCUMENTS. |
+### **The Workflow for New Curriculum Development**
 
-## **AI Output Quality Checklist**
+| Step | Action |
+| :---- | :---- |
+| Step 1 — Brainstorm | Introduce ideas for the lesson. Ask AI if anything is unclear or if there are suggestions for making the topic clearer. |
+| Step 2 — Research | Ask AI subject matter questions to fill knowledge gaps or explore depth of coverage. |
+| Step 3 — Outline | Generate a lesson outline following the standard structure (Read, Cheatsheet, Challenge x1–2, Quiz), with goals for each step. |
+| Step 4 — Draft & Refine | Write out a draft of each step, any checklists, etc., then work with AI to refine for clarity, voice, and standards compliance. |
+| Step 5 — Interactive Components | Prototype interactive web components in the learning dashboard style, then iterate on language and examples. When working with AI to generate a component, use the Style Tile and Rules from KEY REFERENCE DOCUMENTS. |
+| Step 6 — Learning Outcomes | Generate Learning Outcomes, Goals, and Objectives where relevant. |
+| Step 7 — Descriptions | Generate Lesson or Class description. |
+
+### **Outline Requirements**
+
+* Learning Goals and Objectives, as reviewed above
+
+* AI Output Quality Checklist (see below)
+
+### **AI Output Quality Checklist**
 
 Before accepting any AI-generated content, verify:
 
@@ -296,11 +300,11 @@ Before accepting any AI-generated content, verify:
 
 * For Challenge steps: each What To Do item is one discrete action; solution code provided
 
-# **11\. AI CURRICULUM PLAN**
+## **11\. AI CURRICULUM PLAN**
 
 New AI lessons and projects are woven throughout the existing web development curriculum at strategic points. The goal is to teach prompt writing, AI-assisted project building, debugging, and workflow automation alongside core technical skills, so students graduate with AI literacy embedded in their practice, not bolted on at the end.
 
-## **Goals for AI Integration**
+### **Goals for AI Integration**
 
 * Brainstorm ways to make learning more interactive
 
@@ -308,36 +312,39 @@ New AI lessons and projects are woven throughout the existing web development cu
 
 * Draft curriculum that helps students understand AI as a professional tool, not a shortcut
 
-| Currently in Development (First Priority) How to Prompt for High-Quality AI Outputs — New AI lesson covering general prompt writing guidelines, with a specific focus on prompting for responsive web layouts. Slots in after Coding Responsive Websites. Build a Landing Page with Claude — New AI project that follows the prompt writing lesson. The responsive layout students build here becomes the foundation for a subsequent JavaScript programming lesson. |
+### **Currently in Development (First Priority)**
+
+| In Progress: How to Prompt for High-Quality AI Outputs — New AI lesson covering general prompt writing guidelines, with a specific focus on prompting for responsive web layouts. Slots in after Coding Responsive Websites. |
 | :---- |
+| **In Progress:** Build a Landing Page with Claude — New AI project that follows the prompt writing lesson. The responsive layout students build here becomes the foundation for a subsequent JavaScript programming lesson. |
 
-## **Full Curriculum Map**
+### **Full Curriculum Map**
 
-*★ \= new addition. Existing courses shown for sequencing context.*
+★ \= new addition. Existing courses shown for sequencing context.
 
 | Course or Lesson | Type |
 | :---- | :---- |
 | ★ Intro to AI for Web Development: lay down some basics to create a one-page website out of the box | New AI Lesson & Challenge |
-| HTML & CSS | *Existing* |
+| HTML & CSS | Existing |
 | ★ Using AI to Accelerate Your Learning (Claude Learning Mode) | New AI Lesson & Challenge |
-| Working with Git & GitHub | *Existing* |
-| Coding Responsive Websites | *Existing* |
+| Working with Git & GitHub | Existing |
+| Coding Responsive Websites | Existing |
 | ★ How to Prompt for High-Quality AI Outputs | New AI Lesson & Challenge |
 | ★ Build a Landing Page with Claude | New AI Project |
-| JavaScript Fundamentals | *Existing* |
+| JavaScript Fundamentals | Existing |
 | ★ AI Assisted Debugging | New AI Lesson & Challenge |
-| Intro to JavaScript React | *Existing* |
+| Intro to JavaScript React | Existing |
 | ★ Automate Your Git Workflow with an AI Agent | New AI Workflow |
-| Intro to React Hooks | *Existing* |
+| Intro to React Hooks | Existing |
 | ★ Bonus: Writing Code That Lasts: Maintainability, Scalability & Edge Cases | Bonus Integration |
-| Getting Started with Python | *Existing* |
-| Using Python to Build Web Apps | *Existing* |
+| Getting Started with Python | Existing |
+| Using Python to Build Web Apps | Existing |
 | ★ AI Assisted QA and Prelaunch Checklist | New AI Lesson & Resource |
-| Full Stack Recipe Card App with React and Flask | *Existing* |
-| Preparing & Displaying Data with Python | *Existing* |
+| Full Stack Recipe Card App with React and Flask | Existing |
+| Preparing & Displaying Data with Python | Existing |
 | ★ Build a Full-Stack AI Feature: Smart Search with Claude API | New AI Project |
 
-# **12\. KEY REFERENCE DOCUMENTS**
+## **12\. KEY REFERENCE DOCUMENTS**
 
 Share these raw GitHub URLs in future sessions as needed:
 
@@ -354,4 +361,4 @@ Share these raw GitHub URLs in future sessions as needed:
 | Interactive Component Style Rules | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/89cdaf2a2bc37e3aad9a395536a38a0fd789de8d/skillcrush-styles/curriculum-guidelines/ai-revamp/web-component-styles/skillcrush-interactive-components-style-rules.md |
 | Interactive Component Style Tile | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/89cdaf2a2bc37e3aad9a395536a38a0fd789de8d/skillcrush-styles/curriculum-guidelines/ai-revamp/web-component-styles/skillcrush-interactive-components-styles.json |
 
-*Skillcrush by PowerToFly  |  Teaching Vision & AI Collaboration Reference  |  Update this document and re-share the raw URL to keep your AI collaborator current.*
+Skillcrush by PowerToFly  |  Teaching Vision & AI Collaboration Reference  |  Update this document and re-share the raw URL to keep your AI collaborator current.
