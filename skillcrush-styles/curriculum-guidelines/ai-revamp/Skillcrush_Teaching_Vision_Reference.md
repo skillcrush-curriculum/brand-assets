@@ -6,7 +6,7 @@ Paste this document or share its raw URL at the start of any curriculum session 
 
 Upload the MD document at the start of any new curriculum session or share the raw URL. If you need to make changes, do so in the Google Doc version, then republish the MD to GitHub and share the raw file URL.
 
-| Quick-start prompt: "Here is my Teaching Vision & Collaboration Reference: https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/... I am starting work on \[topic\]. Let's begin with \[brainstorm / outline / read step draft / challenge draft / interactive component\]." |
+| Quick-start prompt: "Here is my Teaching Vision & Collaboration Reference: \[https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/5693388b42b3b2c73543b4a46eec578bb270a8eb/skillcrush-styles/curriculum-guidelines/ai-revamp/Skillcrush\_Teaching\_Vision\_Reference.md\] I am starting work on \[topic\]. Let's begin with \[brainstorm / outline / read step draft / challenge draft / interactive component\]." |
 | :---- |
 
 ## **1\. ORGANIZATION OVERVIEW**
@@ -360,5 +360,9 @@ Share these raw GitHub URLs in future sessions as needed:
 | AI Curriculum Plan (Excel) | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/1bd964d70897a6c447b23997dbf66cbdbbdb1420/skillcrush-styles/curriculum-guidelines/ai-revamp/AI-augmented-curriculum-overview.xlsx |
 | Interactive Component Style Rules | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/89cdaf2a2bc37e3aad9a395536a38a0fd789de8d/skillcrush-styles/curriculum-guidelines/ai-revamp/web-component-styles/skillcrush-interactive-components-style-rules.md |
 | Interactive Component Style Tile | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/89cdaf2a2bc37e3aad9a395536a38a0fd789de8d/skillcrush-styles/curriculum-guidelines/ai-revamp/web-component-styles/skillcrush-interactive-components-styles.json |
+| Internal Document Design Skill | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/5693388b42b3b2c73543b4a46eec578bb270a8eb/skillcrush-styles/internal-document-styles/skillcrush-doc-design-skill.md |
+| Internal Document Design Tokens | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/5693388b42b3b2c73543b4a46eec578bb270a8eb/skillcrush-styles/internal-document-styles/skillcrush-doc-design-tokens.json |
+| Lesson Outline Template | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/5693388b42b3b2c73543b4a46eec578bb270a8eb/skillcrush-styles/internal-document-styles/Skillcrush\_Lesson\_Outline\_Template.docx |
+| Internal Document General Template | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/5693388b42b3b2c73543b4a46eec578bb270a8eb/skillcrush-styles/internal-document-styles/Skillcrush\_General\_Template.docx |
 
 Skillcrush by PowerToFly  |  Teaching Vision & AI Collaboration Reference  |  Update this document and re-share the raw URL to keep your AI collaborator current.
