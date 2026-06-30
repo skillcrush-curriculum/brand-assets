@@ -6,7 +6,7 @@ Paste this document or share its raw URL at the start of any curriculum session 
 
 Upload the MD document at the start of any new curriculum session or share the raw URL. If you need to make changes, do so in the Google Doc version, then republish the MD to GitHub and share the raw file URL.
 
-| Quick-start prompt: "Here is my Teaching Vision & Collaboration Reference: \[https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/5693388b42b3b2c73543b4a46eec578bb270a8eb/skillcrush-styles/curriculum-guidelines/ai-revamp/Skillcrush\_Teaching\_Vision\_Reference.md\] I am starting work on \[topic\]. Let's begin with \[brainstorm / outline / read step draft / challenge draft / interactive component\]." |
+| Quick-start prompt: "Here is my Teaching Vision & Collaboration Reference: \[https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/f97b7b1dbe8ecca5edf424e4a4bfde12c5f1b898/skillcrush-styles/curriculum-guidelines/ai-revamp/Skillcrush\_Teaching\_Vision\_Reference.md\] I am starting work on \[topic\]. Let's begin with \[brainstorm / outline / read step draft / challenge draft / interactive component\]." |
 | :---- |
 
 ## **1\. ORGANIZATION OVERVIEW**
@@ -182,7 +182,11 @@ The lesson description is the exciting, simplified version of the Learning Objec
 | NOTE: When working with AI to generate a Read Step, share the URL for both the Writing Style and Read Step Guide from KEY REFERENCE DOCUMENTS. |
 | :---- |
 
+* Brief 1-2 sentences orienting student to how the coming lesson connects to all previous, and coming.
+
 * Written overview with outline of what will be covered within this lesson
+
+  * Outline is a bulleted list with the headings for each coming section, and write the headings so that all of them could follow from a sentence like "You'll learn about..." "This lesson will focus on..." 
 
 * Introduce the topic or concept first (the what and why) before getting into the how
 
@@ -274,9 +278,7 @@ AI assists as research partner, curriculum co-designer, and developer of interac
 
 ### **Outline Requirements**
 
-* Learning Goals and Objectives, as reviewed above
-
-* AI Output Quality Checklist (see below)
+* Include Learning Goals and Objectives, as reviewed above
 
 ### **AI Output Quality Checklist**
 
