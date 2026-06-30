@@ -1,0 +1,202 @@
+{
+  "brand": "Skillcrush",
+  "version": "1.2.0",
+
+  "fonts": {
+    "heading": "Montserrat",
+    "body": "Open Sans"
+  },
+
+  "typography": {
+    "h1": {
+      "font": "Montserrat",
+      "size_pt": 19,
+      "size_halfpt": 38,
+      "weight": "Bold",
+      "color": "#f86d58",
+      "heading_id": "Heading1",
+      "outline_level": 0,
+      "spacing_before_pt": 0,
+      "spacing_after_pt": 8,
+      "notes": "Document title only. One per document."
+    },
+    "h2": {
+      "font": "Montserrat",
+      "size_pt": 16,
+      "size_halfpt": 32,
+      "weight": "Bold",
+      "color": "#743ffd",
+      "heading_id": "Heading2",
+      "outline_level": 1,
+      "spacing_before_pt": 14,
+      "spacing_after_pt": 5,
+      "notes": "Primary section headers AND step labels (READ STEP, CHALLENGE STEP, etc.). Both use H2."
+    },
+    "h3": {
+      "font": "Montserrat",
+      "size_pt": 12,
+      "size_halfpt": 24,
+      "weight": "Bold",
+      "color": "#666666",
+      "heading_id": "Heading3",
+      "outline_level": 2,
+      "spacing_before_pt": 10,
+      "spacing_after_pt": 4,
+      "notes": "Sub-section headers"
+    },
+    "h4": {
+      "font": "Montserrat",
+      "size_pt": 10,
+      "size_halfpt": 20,
+      "weight": "Bold",
+      "color": "#666666",
+      "heading_id": "Heading4",
+      "outline_level": 3,
+      "spacing_before_pt": 8,
+      "spacing_after_pt": 3,
+      "notes": "Smallest header level"
+    },
+    "body": {
+      "font": "Open Sans",
+      "size_pt": 10,
+      "size_halfpt": 20,
+      "weight": "Regular",
+      "color": "#333333",
+      "spacing_before_pt": 0,
+      "spacing_after_pt": 4,
+      "notes": "All body copy, bullet lists, table body rows, callout body text"
+    },
+    "header_footer": {
+      "font": "Open Sans",
+      "size_pt": 9,
+      "size_halfpt": 18,
+      "weight": "Regular",
+      "color": "#666666"
+    },
+    "halfpt_note": "docx-js font sizes are in half-points: size_pt * 2. So 19pt = size: 38, 10pt = size: 20. Never multiply by 20 (that is DXA for margins)."
+  },
+
+  "colors": {
+    "coral": "#f86d58",
+    "purple": "#743ffd",
+    "teal": "#23a898",
+    "grey_text": "#666666",
+    "body_text": "#333333",
+    "table_alt_row": "#eefaf8",
+    "callout_bg": "#f0f9fe",
+    "callout_border": "#000000",
+    "divider": "#cccccc",
+    "white": "#ffffff",
+    "table_header_bg_note": "Primary and sub-header rows use teal #23a898 only in data/reference tables (e.g. coding examples, curriculum tables). Metadata tables (lesson details) use no header row — alternating white/#eefaf8 rows only."
+  },
+
+  "divider": {
+    "style": "paragraph_bottom_border",
+    "color": "#cccccc",
+    "weight_sz": 4,
+    "spacing_before_pt": 6,
+    "spacing_after_pt": 6,
+    "notes": "Applied as a bottom border on an empty paragraph between major sections. Never use a table as a divider."
+  },
+
+  "table": {
+    "metadata": {
+      "description": "Lesson/document details at the top of a document. No header row.",
+      "row_odd": { "background": "#ffffff" },
+      "row_even": { "background": "#eefaf8" },
+      "border_color": "#000000",
+      "border_sz": 4,
+      "body_font": "Open Sans",
+      "body_size_pt": 10,
+      "body_size_halfpt": 20,
+      "body_color": "#333333"
+    },
+    "data": {
+      "description": "Reference or content tables with a teal header row.",
+      "header_row": {
+        "font": "Open Sans",
+        "size_pt": 9,
+        "size_halfpt": 18,
+        "weight": "Bold",
+        "background": "#23a898",
+        "text_color": "#ffffff"
+      },
+      "row_odd": { "background": "#ffffff" },
+      "row_even": { "background": "#eefaf8" },
+      "border_color": "#000000",
+      "border_sz": 4,
+      "body_font": "Open Sans",
+      "body_size_pt": 10,
+      "body_size_halfpt": 20,
+      "body_color": "#333333"
+    },
+    "cell_margins_dxa": {
+      "top": 80, "bottom": 80, "left": 140, "right": 140
+    },
+    "page_width_dxa": 9360,
+    "notes": "Always set width on both the table (DXA) and each cell. Column widths must sum to table width."
+  },
+
+  "callout_box": {
+    "background": "#f0f9fe",
+    "border_color": "#000000",
+    "border_sz": 4,
+    "label": {
+      "font": "Montserrat",
+      "weight": "Bold",
+      "color": "#000000",
+      "inline": true,
+      "notes": "Label is inline bold text at the start of the paragraph (e.g. 'NOTE: '), not a separate paragraph. Short labels: NOTE, TIP, IMPORTANT, REMINDER."
+    },
+    "body": {
+      "font": "Open Sans",
+      "size_pt": 10,
+      "size_halfpt": 20,
+      "weight": "Regular",
+      "color": "#333333"
+    },
+    "padding_dxa": 160,
+    "notes": "Implemented as a single-cell table. Label and body text are in the same paragraph — bold inline label followed by regular body text."
+  },
+
+  "lesson_outline": {
+    "step_label_style": "Heading2",
+    "step_label_notes": "Step type labels (READ STEP 1, DOWNLOAD STEP, CHALLENGE STEP 1, etc.) use H2 style. They appear directly above the step title, which is H3.",
+    "step_title_style": "Heading3",
+    "step_section_style": "Heading4",
+    "step_label_spacing_before_dxa": 320,
+    "step_label_spacing_after_dxa": 40
+  },
+
+  "document_header": {
+    "content": "Document type label only (e.g. 'Lesson Outline', 'Teaching Reference')",
+    "font": "Open Sans",
+    "size_pt": 9,
+    "size_halfpt": 18,
+    "color": "#666666",
+    "alignment": "left",
+    "border": "none",
+    "notes": "No Skillcrush wordmark. No decorative rules."
+  },
+
+  "document_footer": {
+    "content": "Page number only, right-aligned",
+    "font": "Open Sans",
+    "size_pt": 9,
+    "size_halfpt": 18,
+    "color": "#666666",
+    "alignment": "right",
+    "border": "none",
+    "notes": "No decorative rules."
+  },
+
+  "page_setup_dxa": {
+    "width": 12240,
+    "height": 15840,
+    "margin_top": 1440,
+    "margin_right": 1440,
+    "margin_bottom": 1440,
+    "margin_left": 1440,
+    "content_width": 9360
+  }
+}
