@@ -6,7 +6,7 @@ Paste this document or share its raw URL at the start of any curriculum session 
 
 Upload the MD document at the start of any new curriculum session or share the raw URL. If you need to make changes, do so in the Google Doc version, then republish the MD to GitHub and share the raw file URL.
 
-| Quick-start prompt: "Here is my Teaching Vision & Collaboration Reference: \[https://github.com/skillcrush-curriculum/brand-assets/blob/15bf7b6811b8a1174797bee2d174d0918465a13d/skillcrush-styles/curriculum-guidelines/ai-revamp/Skillcrush\_Teaching\_Vision\_Reference.md\] I am starting work on \[topic\]. Let's begin with \[brainstorm / outline / read step draft / challenge draft / interactive component\]." |
+| Quick-start prompt: "Here is my Teaching Vision & Collaboration Reference: \[https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/238c084d1e2dc8179db36b78c12ad98935d909c0/skillcrush-styles/curriculum-guidelines/ai-revamp/Skillcrush\_Teaching\_Vision\_Reference.md\] I am starting work on \[topic\]. Let's begin with \[brainstorm / outline / read step draft / challenge draft / interactive component\]." |
 | :---- |
 
 ## **1\. ORGANIZATION OVERVIEW**
@@ -362,11 +362,19 @@ Share these raw GitHub URLs in future sessions as needed:
 | Checklist for Writing Steps | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/26c13576c16b8a13cc9858d25ba5460c4c38e2fa/skillcrush-styles/curriculum-guidelines/checklist-for-writing-steps.pdf |
 | Curriculum Accessibility Guide | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/26c13576c16b8a13cc9858d25ba5460c4c38e2fa/skillcrush-styles/curriculum-guidelines/curriculum-accessibility-guide.pdf |
 | AI Curriculum Plan (Excel) | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/1bd964d70897a6c447b23997dbf66cbdbbdb1420/skillcrush-styles/curriculum-guidelines/ai-revamp/AI-augmented-curriculum-overview.xlsx |
-| Interactive Component Style Rules | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/89cdaf2a2bc37e3aad9a395536a38a0fd789de8d/skillcrush-styles/curriculum-guidelines/ai-revamp/web-component-styles/skillcrush-interactive-components-style-rules.md |
-| Interactive Component Style Tile | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/89cdaf2a2bc37e3aad9a395536a38a0fd789de8d/skillcrush-styles/curriculum-guidelines/ai-revamp/web-component-styles/skillcrush-interactive-components-styles.json |
+| Interactive Component Style Rules | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/08946d4a60b67572cd97cfdc1a3fbdc8a5588e93/skillcrush-styles/curriculum-guidelines/ai-revamp/web-component-styles/skillcrush-interactive-components-style-rules.md |
+| Interactive Component Style Tile | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/08946d4a60b67572cd97cfdc1a3fbdc8a5588e93/skillcrush-styles/curriculum-guidelines/ai-revamp/web-component-styles/skillcrush-interactive-components-styles.json |
 | Internal Document Design Skill | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/5693388b42b3b2c73543b4a46eec578bb270a8eb/skillcrush-styles/internal-document-styles/skillcrush-doc-design-skill.md |
 | Internal Document Design Tokens | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/5693388b42b3b2c73543b4a46eec578bb270a8eb/skillcrush-styles/internal-document-styles/skillcrush-doc-design-tokens.json |
 | Lesson Outline Template | https://github.com/skillcrush-curriculum/brand-assets/blob/15bf7b6811b8a1174797bee2d174d0918465a13d/skillcrush-styles/internal-document-styles/Skillcrush\_Lesson\_Outline\_Template.docx |
 | Lesson Step Template | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/fc78bd29f1b625348b95f545bc9410ceb75e9377/skillcrush-styles/internal-document-styles/Skillcrush\_Lesson\_Outline\_Template.docx |
 
 Skillcrush by PowerToFly  |  Teaching Vision & AI Collaboration Reference  |  Update this document and re-share the raw URL to keep your AI collaborator current.
+
+Using AI to Accelerate Your Learning Notes:
+
+* Read Step: Use AI to help you think, not replace your thinking  
+* Download Step: Cheatsheet on prompts for learning  
+* Download Step: Introduce [CLAUDE.md](http://CLAUDE.md) files made especially to guide student’s learning process in a meaningful way  
+* Challenge Step: Purpose is to start building AI Assistant good habits, such as saving work, organizing into projects, etc.
+
