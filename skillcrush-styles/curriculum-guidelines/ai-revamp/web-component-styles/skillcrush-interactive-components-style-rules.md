@@ -63,9 +63,9 @@ Reference for all bootcamp lesson components. These components render inside an 
 ## Layout & Spacing
 
 ### Viewport
-- **Target width: 800px** — components are embedded in an iFrame at this width
-- Use `max-width: 800px; margin: 0 auto` to center in wider containers
-- Do **not** rely on viewport units (`vw`, `vh`) for core layout
+- **Target width for optimal viewing: 800px** — components are embedded in an iFrame with a left-side menu taking up space in desktop
+- expand up to 1200px width for when menu is collapsed
+- make sure all content is responsive for mobile and tablet view
 
 ### Core Rules
 - **No border radius** — all corners are sharp (square)
