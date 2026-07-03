@@ -52,7 +52,6 @@
 
   "layout": {
     "targetWidth": "800px",
-    "containerStyle": "max-width: 800px; margin: 0 auto;",
     "borderRadius": "0",
     "spacing": {
       "cardPadding": "24px",
