@@ -6,7 +6,7 @@ Paste this document or share its raw URL at the start of any curriculum session 
 
 Upload the MD document at the start of any new curriculum session or share the raw URL. If you need to make changes, do so in the Google Doc version, then republish the MD to GitHub and share the raw file URL.
 
-| Quick-start prompt: "Here is my Teaching Vision & Collaboration Reference: \[https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/69f0c7ab8507991412cf001808fc3637bb3c934e/skillcrush-styles/curriculum-guidelines/ai-revamp/Skillcrush\_Teaching\_Vision\_Reference.md\] I am starting work on \[topic\]. Let's begin with \[brainstorm / outline / read step draft / challenge draft / interactive component\]." |
+| Quick-start prompt: "Here is my Teaching Vision & Collaboration Reference: \[https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/c1aef5d587b4b83998a237a7ead4ed86f5ba73e7/skillcrush-styles/curriculum-guidelines/ai-revamp/Skillcrush\_Teaching\_Vision\_Reference.md\] I am starting work on \[topic\]. Let's begin with \[brainstorm / outline / read step draft / challenge draft / interactive component\]." |
 | :---- |
 
 ## **1\. ORGANIZATION OVERVIEW**
@@ -82,6 +82,8 @@ Skillcrush focuses on people underrepresented in tech: BIPOC women, femmes, and 
 * **Multiple learning modalities:** Watch steps, read steps, hands-on guided challenges, practice quizzes, practice exercises, projects that integrate learning.
 
 * **Incremental understanding:** Break topics into small, clearly sequenced steps. Build understanding gradually, especially for complex topics like the box model, Flexbox, props in React, and data flow.
+
+* **Just-in-time instruction**: Content sticks better when it's introduced at the moment of application. This means some topics may not be introduced where you would expect categorically, but instead where it’s more relevant for a particular exercise or project \- in which case it should always be building on a foundation that was previously established.
 
 * **Real-world examples:** All code examples must be tied to real-life applications. Never use placeholder variable names like b \= 2; use credit\_card\_balance \= 50 instead.
 
@@ -328,13 +330,13 @@ New AI lessons and projects are woven throughout the existing web development cu
 
 | Course or Lesson | Type |
 | :---- | :---- |
-| ★ Intro to AI for Web Development: lay down some basics to create a one-page website out of the box | New AI Lesson & Challenge |
+| ★ Intro to AI Tools: lay down some basics of how a website works and create a one-page website out of the box | New AI Lesson & Challenge |
 | HTML & CSS | Existing |
-| ★ Using AI to Accelerate Your Learning (Claude Learning Mode) | New AI Lesson & Challenge |
+| ★ Using AI to Accelerate Your Learning | New AI Lesson & Challenge |
 | Working with Git & GitHub | Existing |
 | Coding Responsive Websites | Existing |
-| ★ How to Prompt for High-Quality AI Outputs | New AI Lesson & Challenge |
-| ★ Build a Landing Page with Claude | New AI Project |
+| ★ Intro to Prompt Writing | New AI Lesson & Challenge |
+| ★ Build a Layout with Claude | New AI Project |
 | JavaScript Fundamentals | Existing |
 | ★ AI Assisted Debugging | New AI Lesson & Challenge |
 | Intro to JavaScript React | Existing |
@@ -366,7 +368,7 @@ Share these raw GitHub URLs in future sessions as needed:
 | Interactive Component Style Tile | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/08946d4a60b67572cd97cfdc1a3fbdc8a5588e93/skillcrush-styles/curriculum-guidelines/ai-revamp/web-component-styles/skillcrush-interactive-components-styles.json |
 | Internal Document Design Skill | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/5693388b42b3b2c73543b4a46eec578bb270a8eb/skillcrush-styles/internal-document-styles/skillcrush-doc-design-skill.md |
 | Internal Document Design Tokens | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/5693388b42b3b2c73543b4a46eec578bb270a8eb/skillcrush-styles/internal-document-styles/skillcrush-doc-design-tokens.json |
-| Lesson Outline Template | https://github.com/skillcrush-curriculum/brand-assets/blob/15bf7b6811b8a1174797bee2d174d0918465a13d/skillcrush-styles/internal-document-styles/Skillcrush\_Lesson\_Outline\_Template.docx |
-| Lesson Step Template | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/fc78bd29f1b625348b95f545bc9410ceb75e9377/skillcrush-styles/internal-document-styles/Skillcrush\_Lesson\_Outline\_Template.docx |
+| Lesson Outline Template | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/15bf7b6811b8a1174797bee2d174d0918465a13d/skillcrush-styles/internal-document-styles/Skillcrush\_Lesson\_Outline\_Template.docx |
+| Lesson Step Template | https://raw.githubusercontent.com/skillcrush-curriculum/brand-assets/8266611d009cdcd0b6ef1e83bc1d136c1367dd5e/skillcrush-styles/internal-document-styles/Lesson\_Step\_Template.docx |
 
 Skillcrush by PowerToFly  |  Teaching Vision & AI Collaboration Reference  |  Update this document and re-share the raw URL to keep your AI collaborator current.  
